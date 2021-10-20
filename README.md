@@ -6,7 +6,7 @@
 - [PyTorch tutorial notebooks](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial1/Lisa_Cluster.html)
 ### Chapter 2
 - [ ] 2.1 [Deep modularity](https://www.youtube.com/watch?v=PQTSg7OQ8fI&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk)
-- [ ] 2.2 Deep learning modules
+- [ ] 2.2 [Deep learning modules](https://www.youtube.com/watch?v=snPWuzCZGww&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk&index=2)
 - [ ] 2.3 Gradient-based optimization
 - [ ] 2.4 Chain rule
 - [ ] 2.5 Backpropagation
