@@ -7,6 +7,6 @@
 ### Chapter 2
 - [ ] 2.1 [Deep modularity](https://www.youtube.com/watch?v=PQTSg7OQ8fI&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk)
 - [ ] 2.2 [Deep learning modules](https://www.youtube.com/watch?v=snPWuzCZGww&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk&index=2)
-- [ ] 2.3 Gradient-based optimization
+- [ ] 2.3 [Gradient-based optimization] (https://www.youtube.com/watch?v=bF3xrQjpcnA&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk&index=3)
 - [ ] 2.4 Chain rule
 - [ ] 2.5 Backpropagation
